@@ -2,3 +2,4 @@ Click
 PyYAML
 six
 tox
+pytest-runner
